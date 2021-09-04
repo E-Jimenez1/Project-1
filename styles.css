@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url("images/paradise\ pier.jpeg") no-repeat top center;
+  background: url("images/paradisepier.jpeg") no-repeat top center;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -74,7 +74,7 @@ header .profile-image {
   transition: all 0.5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.5) rotate(30deg);
 }
 .tag {
   background-color: #efefef;
